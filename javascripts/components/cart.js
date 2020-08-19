@@ -111,4 +111,3 @@ const chargeIt = (ccNum) => {
 };
 
 export { makeCart, addToCart }
-
