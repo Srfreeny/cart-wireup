@@ -1,5 +1,5 @@
 import { cartTotal } from './../components/carttotal.js'
-import { getCart, emptyCart } from './../helpers/cartData.js'
+import { getCart, emptyCart } from './../helpers/data/cartData.js'
 
 const cartModalMaker = () => {
  

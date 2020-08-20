@@ -1,5 +1,5 @@
-import { showCartItems, cartModalMaker } from './../components/modalcart.js'
-import { setCart } from './../helpers/cartData.js'
+import { showCartItems, cartModalMaker, chargeIt } from './../components/modalcart.js'
+import { setCart } from './../helpers/data/cartData.js'
 import { cartCreator } from './../components/cartdom.js'
 
 const makeCart = () => {
