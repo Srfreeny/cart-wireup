@@ -1,4 +1,4 @@
-import { getBooks } from './../helpers/data/bookData.js';
+import { getBooks } from '../helpers/data/bookData.js';
 import { makeStore, emptyStore } from './store.js';
 
 const navigationEvents = () => {
